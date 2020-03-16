@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UiTesting</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="txt_next">Next</string>
+    <string name="secondary">Secondary</string>
+    <string name="back">Back</string>
+</resources>

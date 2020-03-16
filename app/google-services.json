@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147063827538",
+    "firebase_url": "https://ui-espresso-testing-60ed9.firebaseio.com",
+    "project_id": "ui-espresso-testing-60ed9",
+    "storage_bucket": "ui-espresso-testing-60ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147063827538:android:c1994bdf2b9585c852c38b",
+        "android_client_info": {
+          "package_name": "com.timkontrakan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147063827538-d0gqt8go2p26l019mnshaiakg3n6gf11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbW-s2JkeW-TVADRXG5k2KzjG1VlL48c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147063827538-d0gqt8go2p26l019mnshaiakg3n6gf11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
